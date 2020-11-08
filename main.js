@@ -445,7 +445,7 @@ class QuoteFormComponent {
             Host: 'smtp.gmail.com',
             Username: 'thespahrtan@gmail.com',
             Password: 'gptilepqjytlygqg',
-            To: 'ebspahr@gmail.com',
+            To: 'mspencer@live.com',
             From: 'ats-notify@gmail.com',
             Subject: 'test ats-notify: ' + serviceType + ' requested',
             Body: body
